@@ -1906,7 +1906,7 @@ export class BunyanLogAttributesSample {
 
 #### [Python](#tab/python)
   
-The Python [logging](https://docs.python.org/3/howto/logging.html) library is [autoinstrumented](#included-instrumentation-libraries). You can attach custom dimensions to your logs by passing a dictionary into the `extra` argument of your logs:
+The Python [logging](https://docs.python.org/3/howto/logging.html) library is [autoinstrumented](opentelemetry-collect-detect.md#included-instrumentation-libraries). You can attach custom dimensions to your logs by passing a dictionary into the `extra` argument of your logs:
 
 ```python
 ...
