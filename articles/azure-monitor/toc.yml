@@ -51,6 +51,8 @@ items:
           href: app/opentelemetry-enable.md
         - name: Configure OpenTelemetry
           href: app/opentelemetry-configuration.md
+        - name: Autocollect OpenTelemetry
+          href: app/opentelemetry-collect-detect.md
         - name: Add and modify OpenTelemetry
           href: app/opentelemetry-add-modify.md
         - name: Filter OpenTelemetry
